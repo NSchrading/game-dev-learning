@@ -1,0 +1,17 @@
+html, body {
+  width:  100%;
+  height: 100%;
+  margin: 0;
+}
+
+canvas {
+  padding-left: 50px;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: block;
+}
